@@ -71,13 +71,14 @@ h3 #result_address{
 }
 
 #log_error_prediction {
-  font-size: 24px;
+  font-size: 18px;
   color:black;
+  padding-bottom: 30px;
 }
 
 #log_error_score {
   color: green;
-  font-size: 30px;
+  font-size: 18px;
 }
 
 
